@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 149.281982421875 140" style="false" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%" spreadMethod="pad"><stop offset="0%" stop-color="#CCC" stop-opacity="0"></stop><stop offset="100%" stop-color="#CCC" stop-opacity="0.2"></stop></linearGradient><polygon points="17.320508075688775,-9.999999999999996 17.320508075688775,10 0,20 -17.320508075688778,9.999999999999996 -17.320508075688778,-9.999999999999995 -3.673940392319381e-15,-20 " id="hexover" style="fill : url(#gradient);" class="hexover"></polygon><filter id="f1" x="0" y="0" width="200%" height="200%"><feImage xlink:href="#hexover" result="remedy"></feImage><feBlend in="SourceGraphic" in2="remedy" mode="normal"></feBlend></filter><style type="text/css">.line {
+    stroke : #000000;
+    stroke-width : 3px;
+    fill : none;
+}
+
+.hex {
+    fill : #BBB;
+    stroke : #888;
+    stroke-width : 1px;
+}
+
+.tri {
+    fill : #DDD;
+    stroke : none;
+}
+
+.hexover {
+    stroke-width : 0px;
+}
+
+/* Stuff for the shapelet editor */
+polygon
+{
+    transition : 0.3s;
+}
+
+
+line {
+    stroke : #000000;
+    stroke-width : 3px;
+    fill : none;
+
+    transition : 0.3s;
+}
+
+circle {
+    stroke : #000000;
+    stroke-width : 1px;
+    fill : white;
+
+    transition : 1s;
+}
+
+.chosen {
+    fill : red;
+}
+
+.shapeletline {
+    stroke : red;
+    stroke-width : 6px;
+    fill : none;
+
+    stroke-linecap : round;
+}
+
+.tile {
+    stroke : #3366CC;
+    stroke-width : 6px;
+    fill : none;
+}
+
+.arrow {
+    stroke : blue;
+    stroke-width : 2px;
+    fill : none;
+}
+
+.primary
+{
+    fill : hsl(220, 80%, 60%) !important;
+}
+
+.secondary
+{
+    fill : hsl(220, 60%, 75%) !important;
+}
+
+.secondary.primary
+{
+    fill : hsl(220, 80%, 60%) !important;
+}</style></defs><g id="hexagons" style="opacity: 1; -webkit-transition: 1s; transition: 1s;" transform="translate(-1710,-1680)"><polygon points="1767.3205080756888,1740 1767.3205080756888,1760 1750,1770 1732.6794919243112,1760 1732.6794919243112,1740 1750,1730 " class="hex" id="hex0" style="fill: rgb(187, 187, 187);"></polygon><polygon points="1784.6410161513777,1710 1784.6410161513777,1730 1767.3205080756888,1740 1750,1730 1750,1710 1767.3205080756888,1700 " class="hex" id="hex1" style="fill: rgb(187, 187, 187);"></polygon><polygon points="1819.2820323027552,1710 1819.2820323027552,1730 1801.9615242270663,1740 1784.6410161513775,1730 1784.6410161513775,1710 1801.9615242270663,1700 " class="hex" id="hex2" style="fill: rgb(187, 187, 187);"></polygon><polygon points="1801.9615242270663,1740 1801.9615242270663,1760 1784.6410161513775,1770 1767.3205080756886,1760 1767.3205080756886,1740 1784.6410161513775,1730 " class="hex" id="hex3" style="fill: rgb(187, 187, 187);"></polygon><polygon points="1784.6410161513775,1770 1784.6410161513775,1790 1767.3205080756886,1800 1749.9999999999998,1790 1749.9999999999998,1770 1767.3205080756886,1760 " class="hex" id="hex4" style="fill: rgb(187, 187, 187);"></polygon><polygon points="1819.282032302755,1770 1819.282032302755,1790 1801.961524227066,1800 1784.6410161513772,1790 1784.6410161513772,1770 1801.961524227066,1760 " class="hex" id="hex5" style="fill: rgb(187, 187, 187);"></polygon><polygon points="1836.6025403784438,1740 1836.6025403784438,1760 1819.282032302755,1770 1801.961524227066,1760 1801.961524227066,1740 1819.282032302755,1730 " class="hex" id="hex6" style="fill: rgb(187, 187, 187);"></polygon><use xlink:href="#hexover" x="1750" y="1750" id="hexover0"></use><use xlink:href="#hexover" x="1767.3205080756888" y="1720" id="hexover1"></use><use xlink:href="#hexover" x="1801.9615242270663" y="1720" id="hexover2"></use><use xlink:href="#hexover" x="1784.6410161513775" y="1750" id="hexover3"></use><use xlink:href="#hexover" x="1767.3205080756886" y="1780" id="hexover4"></use><use xlink:href="#hexover" x="1801.961524227066" y="1780" id="hexover5"></use><use xlink:href="#hexover" x="1819.282032302755" y="1750" id="hexover6"></use></g><g transform="translate(-1710,-1680)"><path d="M 1750 1750  l 17.32050807568877 -30  l 34.64101615137754 0  l -17.32050807568879 29.999999999999986  l -17.32050807568879 29.999999999999986  l 34.64101615137754 0  l 17.32050807568877 -30 " class="line"></path></g></svg>

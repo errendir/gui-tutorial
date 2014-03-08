@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="702.151px" height="676.801px" viewBox="148.924 161.6 702.151 676.801"
+	 enable-background="new 148.924 161.6 702.151 676.801" xml:space="preserve">
+<g id="hexagons" transform="translate(-1710,-1680)">
+	<polygon id="hex0" fill="#BBBBBB" stroke="#5E5E5E" stroke-width="2" points="2093.975,2113.014 2093.975,2246.988 
+		1977.949,2313.976 1861.923,2246.988 1861.923,2113.014 1977.949,2046.026 	"/>
+	<polygon id="hex1" fill="#BBBBBB" stroke="#5E5E5E" stroke-width="2" points="2209.999,1912.052 2209.999,2046.026 
+		2093.975,2113.014 1977.949,2046.026 1977.949,1912.052 2093.975,1845.063 	"/>
+	<polygon id="hex2" fill="#BBBBBB" stroke="#5E5E5E" stroke-width="2" points="2442.05,1912.052 2442.05,2046.026 
+		2326.025,2113.014 2209.999,2046.026 2209.999,1912.052 2326.025,1845.063 	"/>
+	<polygon id="hex3" fill="#BBBBBB" stroke="#5E5E5E" stroke-width="2" points="2326.025,2113.014 2326.025,2246.988 
+		2209.999,2313.976 2093.975,2246.988 2093.975,2113.014 2209.999,2046.026 	"/>
+	<polygon id="hex4" fill="#BBBBBB" stroke="#5E5E5E" stroke-width="2" points="2209.999,2313.976 2209.999,2447.95 
+		2093.975,2514.938 1977.949,2447.95 1977.949,2313.976 2093.975,2246.988 	"/>
+	<polygon id="hex5" fill="#BBBBBB" stroke="#5E5E5E" stroke-width="2" points="2442.05,2313.976 2442.05,2447.95 2326.025,2514.938 
+		2209.999,2447.95 2209.999,2313.976 2326.025,2246.988 	"/>
+	<polygon id="hex6" fill="#BBBBBB" stroke="#5E5E5E" stroke-width="2" points="2558.076,2113.014 2558.076,2246.988 
+		2442.05,2313.976 2326.025,2246.988 2326.025,2113.014 2442.05,2046.026 	"/>
+	<g id="hexover0">
+		
+			<linearGradient id="hexover_7_" gradientUnits="userSpaceOnUse" x1="1710.1255" y1="2680.7969" x2="1710.1255" y2="2679.7969" gradientTransform="matrix(232.0509 0 0 -267.9493 -394858.2813 720363.5625)">
+			<stop  offset="0" style="stop-color:#CCCCCC;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:0.2"/>
+		</linearGradient>
+		<polygon id="hexover" fill="url(#hexover_7_)" stroke="#5E5E5E" stroke-width="6" points="2093.975,2113.014 2093.975,2246.988 
+			1977.949,2313.976 1861.924,2246.988 1861.924,2113.014 1977.949,2046.026 		"/>
+	</g>
+	<g id="hexover1">
+		
+			<linearGradient id="hexover_8_" gradientUnits="userSpaceOnUse" x1="1710.1255" y1="2680.7969" x2="1710.1255" y2="2679.7969" gradientTransform="matrix(232.0509 0 0 -267.9493 -394742.2813 720162.5625)">
+			<stop  offset="0" style="stop-color:#CCCCCC;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:0.2"/>
+		</linearGradient>
+		<polygon id="hexover_1_" fill="url(#hexover_8_)" stroke="#5E5E5E" stroke-width="6" points="2210,1912.052 2210,2046.026 
+			2093.975,2113.014 1977.949,2046.026 1977.949,1912.052 2093.975,1845.064 		"/>
+	</g>
+	<g id="hexover2">
+		
+			<linearGradient id="hexover_9_" gradientUnits="userSpaceOnUse" x1="1710.125" y1="2680.7969" x2="1710.125" y2="2679.7969" gradientTransform="matrix(232.0509 0 0 -267.9493 -394510.1563 720162.5625)">
+			<stop  offset="0" style="stop-color:#CCCCCC;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:0.2"/>
+		</linearGradient>
+		<polygon id="hexover_2_" fill="url(#hexover_9_)" stroke="#5E5E5E" stroke-width="6" points="2442.051,1912.052 
+			2442.051,2046.026 2326.025,2113.014 2210,2046.026 2210,1912.052 2326.025,1845.064 		"/>
+	</g>
+	<g id="hexover3">
+		
+			<linearGradient id="hexover_10_" gradientUnits="userSpaceOnUse" x1="1710.125" y1="2680.7969" x2="1710.125" y2="2679.7969" gradientTransform="matrix(232.0509 0 0 -267.9493 -394626.1563 720363.5625)">
+			<stop  offset="0" style="stop-color:#CCCCCC;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:0.2"/>
+		</linearGradient>
+		<polygon id="hexover_3_" fill="url(#hexover_10_)" stroke="#5E5E5E" stroke-width="6" points="2326.024,2113.014 
+			2326.024,2246.988 2209.999,2313.976 2093.974,2246.988 2093.974,2113.014 2209.999,2046.026 		"/>
+	</g>
+	<g id="hexover4">
+		
+			<linearGradient id="hexover_11_" gradientUnits="userSpaceOnUse" x1="1710.1255" y1="2680.7969" x2="1710.1255" y2="2679.7969" gradientTransform="matrix(232.0509 0 0 -267.9493 -394742.2813 720564.5625)">
+			<stop  offset="0" style="stop-color:#CCCCCC;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:0.2"/>
+		</linearGradient>
+		<polygon id="hexover_4_" fill="url(#hexover_11_)" stroke="#5E5E5E" stroke-width="6" points="2210,2313.976 2210,2447.95 
+			2093.975,2514.938 1977.949,2447.95 1977.949,2313.976 2093.975,2246.988 		"/>
+	</g>
+	<g id="hexover5">
+		
+			<linearGradient id="hexover_12_" gradientUnits="userSpaceOnUse" x1="1710.125" y1="2680.7969" x2="1710.125" y2="2679.7969" gradientTransform="matrix(232.0509 0 0 -267.9493 -394510.1563 720564.5625)">
+			<stop  offset="0" style="stop-color:#CCCCCC;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:0.2"/>
+		</linearGradient>
+		<polygon id="hexover_5_" fill="url(#hexover_12_)" stroke="#5E5E5E" stroke-width="6" points="2442.051,2313.976 
+			2442.051,2447.95 2326.025,2514.938 2210,2447.95 2210,2313.976 2326.025,2246.988 		"/>
+	</g>
+	<g id="hexover6">
+		
+			<linearGradient id="hexover_13_" gradientUnits="userSpaceOnUse" x1="1710.1255" y1="2680.7969" x2="1710.1255" y2="2679.7969" gradientTransform="matrix(232.0509 0 0 -267.9493 -394394.1563 720363.5625)">
+			<stop  offset="0" style="stop-color:#CCCCCC;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#CCCCCC;stop-opacity:0.2"/>
+		</linearGradient>
+		<polygon id="hexover_6_" fill="url(#hexover_13_)" stroke="#5E5E5E" stroke-width="6" points="2558.075,2113.014 
+			2558.075,2246.988 2442.05,2313.976 2326.024,2246.988 2326.024,2113.014 2442.05,2046.026 		"/>
+	</g>
+</g>
+<g transform="translate(-1710,-1680)">
+	<path fill="none" stroke="#000000" stroke-width="56" d="M1977.949,2180.001l116.025-200.962h232.051l-116.026,200.962
+		l-116.025,200.962h232.051l116.025-200.962"/>
+</g>
+</svg>
